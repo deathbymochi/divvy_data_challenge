@@ -1,0 +1,6 @@
+# README
+
+These are scripts used for generating simple heatmap animations in R showing most popular arrival and departure stations for Divvy trips taken in 2013.  
+The scripts use the dataset provided in the [[https://www.divvybikes.com/datachallenge][Divvy Data Challenge]] held in March 2014. 
+
+The final webpage showing the animation as well as some other plots can be see [[divvyviz.herokuapp.com][here]].
